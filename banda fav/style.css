@@ -1,0 +1,11 @@
+/*agrefar estilo al body*/
+body {
+    background-color: rgb(231, 253, 191);
+    color: rgb(110, 60, 20)
+}
+
+/*selector de clase. inician con un punto(.)*/
+.lista-de-integrantes {
+    color: rgb(21, 114, 94);
+}
+
